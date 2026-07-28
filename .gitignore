@@ -1,0 +1,8 @@
+.venv/
+models/
+bin/llama.cpp/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+*.part
